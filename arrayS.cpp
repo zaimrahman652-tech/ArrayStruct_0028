@@ -28,6 +28,7 @@ int main()
     // menampilkan data dengan perintah satu per satu
     cout << "data pertama: " << datamu[0] << endl;
     cout << "data kedua: " << datamu[1] << endl;
-  
+  z  cout << "data ketiga: " << datamu[2] << endl;
+    
 
     
