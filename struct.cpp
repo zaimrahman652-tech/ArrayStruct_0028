@@ -12,3 +12,11 @@ int main()
     cin >> mhs.alamat;
     cout << "isikan data usia : ";
     cin >> mhs.umur;
+
+    cout << "data mahasiwa" << endl;
+    cout << "nama : " << mhs.nama << endl;
+    cout << "alamat : " << mhs.alamat << endl;
+    cout << "usia : " << mhs.umur << endl;
+
+    return 0;
+}
