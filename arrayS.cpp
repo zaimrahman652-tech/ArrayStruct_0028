@@ -12,6 +12,7 @@ int main()
     cout << "Isi array data kedua: " << dataku[1] << endl;
     //mengisi array
     dataku [1] = 200;
-    
+    cout << "Isi array data kedua setelah diubah: " << dataku[1] << endl;
+
 
     
