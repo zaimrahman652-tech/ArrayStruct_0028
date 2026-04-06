@@ -8,6 +8,9 @@ int main()
     //deklarasi array tanpa inisialisasi
     int datamu[5];
 
-   
+    //cara akses (membaca atau mengabil isi array
+    cout << "Isi array data kedua: " << dataku[1] << endl;
+    
+
 
     
