@@ -17,6 +17,9 @@ int main()
     // mengisi data dengan perintah satu per satu
     cout << "isikan data pertama: ";
     cin >> datamu[0];
+    cout << "isikan data kedua: ";
+    cin >> datamu[1];
+   
 
 
     
