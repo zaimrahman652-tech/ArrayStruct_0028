@@ -21,6 +21,9 @@ int main()
     cin >> datamu[1];
     cout << "isikan data ketiga: ";
     cin >> datamu[2];
-  
+    cout << "isikan data keempat: ";
+    cin >> datamu[3];
+    
+
 
     
